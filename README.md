@@ -12,8 +12,8 @@ We used the [MIMIC  III](https://mimic.physionet.org/gettingstarted/overview/), 
 ## Jupyter Notebooks
 The `code` folder contains all the codes for our data preparation and modeling.
 * The [data_prep](https://github.com/UTpH/dl_in_medicine/tree/master/code/data_prep) foler contains all the codes for data pre-processing and descriptive analysis
-* The [GRU](https://github.com/UTpH/dl_in_medicine/tree/master/code/GRU) contains all the codes for training GRU models
-* The [GCN](https://github.com/UTpH/dl_in_medicine/tree/master/code/GCN) contains all the codes for training GNN models  
+* The [GRU](https://github.com/UTpH/dl_in_medicine/tree/master/code/GRU) folder contains all the codes for training GRU models
+* The [GCN](https://github.com/UTpH/dl_in_medicine/tree/master/code/GCN) folder contains all the codes for training GNN models  
 
 Code reference: the data preparation for benchmarking
 > Purushotham, Sanjay, et al. "Benchmark of deep learning models on large healthcare mimic datasets." arXiv preprint arXiv:1710.08531 (2017).
