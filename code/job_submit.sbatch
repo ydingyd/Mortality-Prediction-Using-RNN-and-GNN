@@ -8,4 +8,4 @@
 #SBATCH --gres=gpu:p40:1
 
 source activate simclr
-CUDA_LAUNCH_BLOCKING=1 python /scratch/ph1391/GCN.py
+CUDA_LAUNCH_BLOCKING=1 python <path to file>/GCN.py
