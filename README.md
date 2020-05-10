@@ -1,5 +1,5 @@
-# Mortality Prediction on  MIMIC-III Clinical Datasets  Using RNN (GRU) and GNN
-Project for BMIN-GA 3007 Deep Learning in Medicine Spring, 2020
+# Mortality Prediction on MIMIC-III Clinical Datasets Using RNN (GRU) and GNN
+Project for BMIN-GA 3007 Deep Learning in Medicine Spring, 2020  
 Poornima Haridas & Yuan Ding
 
 ## Abstract
