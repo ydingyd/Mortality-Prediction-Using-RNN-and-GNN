@@ -17,7 +17,7 @@ The MIMIC III citation:
 
 ## Jupyter Notebooks
 The `code` folder contains all the codes for our data preparation and modeling.
-* The [data_prep](https://github.com/UTpH/dl_in_medicine/tree/master/code/data_prep) foler contains all the codes for data pre-processing and descriptive analysis
+* The [data_prep](https://github.com/UTpH/dl_in_medicine/tree/master/code/data_prep) folder contains all the codes for data pre-processing and descriptive analysis
 * The [GRU](https://github.com/UTpH/dl_in_medicine/tree/master/code/GRU) folder contains all the codes for training GRU models
 * The [GCN](https://github.com/UTpH/dl_in_medicine/tree/master/code/GCN) folder contains all the codes for training GNN models  
 Run the jupyter notebooks in a Google colab envrionment or download the notebooks as .py files and use the [sbatch script](https://github.com/UTpH/dl_in_medicine/blob/master/code/job_submit.sbatch) to submit the code to HPC clusters (please change the filename in the script).
